@@ -1,0 +1,14 @@
+C:\Users\thu.nguyenvan\Desktop\ASP.NET\AccountOwnerServer\AccountOwnerServer\obj\Debug\netcoreapp2.2\AccountOwnerServer.csprojAssemblyReference.cache
+C:\Users\thu.nguyenvan\Desktop\ASP.NET\AccountOwnerServer\AccountOwnerServer\obj\Debug\netcoreapp2.2\AccountOwnerServer.csproj.CoreCompileInputs.cache
+C:\Users\thu.nguyenvan\Desktop\ASP.NET\AccountOwnerServer\AccountOwnerServer\obj\Debug\netcoreapp2.2\AccountOwnerServer.RazorAssemblyInfo.cache
+C:\Users\thu.nguyenvan\Desktop\ASP.NET\AccountOwnerServer\AccountOwnerServer\obj\Debug\netcoreapp2.2\AccountOwnerServer.RazorAssemblyInfo.cs
+C:\Users\thu.nguyenvan\Desktop\ASP.NET\AccountOwnerServer\AccountOwnerServer\obj\Debug\netcoreapp2.2\AccountOwnerServer.AssemblyInfoInputs.cache
+C:\Users\thu.nguyenvan\Desktop\ASP.NET\AccountOwnerServer\AccountOwnerServer\obj\Debug\netcoreapp2.2\AccountOwnerServer.AssemblyInfo.cs
+C:\Users\thu.nguyenvan\Desktop\ASP.NET\AccountOwnerServer\AccountOwnerServer\bin\Debug\netcoreapp2.2\AccountOwnerServer.deps.json
+C:\Users\thu.nguyenvan\Desktop\ASP.NET\AccountOwnerServer\AccountOwnerServer\bin\Debug\netcoreapp2.2\AccountOwnerServer.runtimeconfig.json
+C:\Users\thu.nguyenvan\Desktop\ASP.NET\AccountOwnerServer\AccountOwnerServer\bin\Debug\netcoreapp2.2\AccountOwnerServer.runtimeconfig.dev.json
+C:\Users\thu.nguyenvan\Desktop\ASP.NET\AccountOwnerServer\AccountOwnerServer\bin\Debug\netcoreapp2.2\AccountOwnerServer.dll
+C:\Users\thu.nguyenvan\Desktop\ASP.NET\AccountOwnerServer\AccountOwnerServer\bin\Debug\netcoreapp2.2\AccountOwnerServer.pdb
+C:\Users\thu.nguyenvan\Desktop\ASP.NET\AccountOwnerServer\AccountOwnerServer\obj\Debug\netcoreapp2.2\AccountOwnerServer.RazorTargetAssemblyInfo.cache
+C:\Users\thu.nguyenvan\Desktop\ASP.NET\AccountOwnerServer\AccountOwnerServer\obj\Debug\netcoreapp2.2\AccountOwnerServer.dll
+C:\Users\thu.nguyenvan\Desktop\ASP.NET\AccountOwnerServer\AccountOwnerServer\obj\Debug\netcoreapp2.2\AccountOwnerServer.pdb
